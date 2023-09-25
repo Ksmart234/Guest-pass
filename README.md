@@ -36,3 +36,4 @@ Make your visitors feel truly welcome. Your visitor’s name will be displayed o
 
 Security
 Alert key people when a visitor checks in or forgets to check out, or just about a specific visit. Make visitors aware of safety and confidentiality rules, keeping your facilities and data safe.
+![image](https://github.com/Ksmart234/Guest-pass/assets/100024079/1725dffd-fa2b-411b-8f0b-7bd5345b469d)
